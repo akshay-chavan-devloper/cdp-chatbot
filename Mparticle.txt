@@ -1,0 +1,11 @@
+To create a user profile in mParticle: 
+ 
+1.	Log in to the mParticle dashboard. 
+ 
+2.	Navigate to the "Profiles" tab. 
+ 
+3.	Click "Create New Profile". 
+ 
+4.	Fill out the required information such as the user ID, attributes, etc. 
+ 
+5.	Save the profile, and it will be available for use in your data streams and integrations. 

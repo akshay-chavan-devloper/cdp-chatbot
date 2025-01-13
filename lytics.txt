@@ -1,0 +1,5 @@
+To build an audience segment in Lytics: 
+1.	Go to the "Audiences" section in Lytics. 
+2.	Click "Create Audience". 
+3.	Define your audience criteria using filters (e.g., user behavior, demographics). 
+4.	Save the audience and apply it to your marketing campaigns or analytics. 

@@ -1,0 +1,11 @@
+To integrate your data with Zeotap: 
+ 
+1.	Navigate to the "Integrations" section in the Zeotap dashboard. 
+ 
+2.	Choose your data source (e.g., CRM, website, app). 
+ 
+3.	Configure the API keys and authentication
+4.	Map your data fields to Zeotap's schema. 
+ 
+5.	Save the integration, and your data will be synced with Zeotap for use in campaigns. 
+ 

@@ -1,0 +1,6 @@
+To set up a new source in Segment: 
+1.	Go to the "Sources" tab in your Segment dashboard. 
+2.	Click "Add Source" to create a new data source. 
+3.	Choose the source type (e.g., website, app, etc.). 
+4.	Follow the instructions for each source type. 
+5.	After configuring, Segment will generate the necessary API keys and setup instructions for your source. 
